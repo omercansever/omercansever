@@ -1,6 +1,6 @@
 # 💫 About Me:
-Im currently learning<br>
-
+💻 Frontend Developer
+🌱 Şu an React öğreniyorum, kodlarımı ve projelerimi daha düzenli ve verimli bir şekilde yönetmeyi hedefliyorum. Vue.js ve C# .NET Framework'te geliştirdiğim projelerle deneyim kazanıyorum. Sürekli öğrenmeye açık ve kendimi her gün daha fazla geliştirmeye çalışan biriyim<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ömercan-cansever) 
